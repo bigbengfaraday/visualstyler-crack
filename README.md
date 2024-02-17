@@ -1,4 +1,4 @@
-#Unlimited License for .NET Projects with VisualStyler library
+##Unlimited License for .NET Projects with VisualStyler library
 
 1. Create .NET Project and add VisualStyler Object.
 2. Open `<form>.Designer.vb`
