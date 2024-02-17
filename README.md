@@ -5,8 +5,7 @@
 3. Change:
    ```vb
    Me.VisualStyler2.License = CType(resources.GetObject("VisualStyler2.License"), SkinSoft.VisualStyler.Licensing.VisualStylerLicense)
-```
-
+   ```
    To:
    ```vb
 Dim lic As SkinSoft.VisualStyler.Licensing.VisualStylerLicense = New VisualStylerLicense
